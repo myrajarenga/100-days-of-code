@@ -1,0 +1,1 @@
+print("Oh no you've been given a", "\033[31m", "warming", "\033[0m", "for being a bad, bad person")
