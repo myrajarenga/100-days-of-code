@@ -1,10 +1,11 @@
-print("=== Your Adventure Simulator ===")
-print("You will be asked abunch of questions then we'll make an amazing story with YOU as the star")
-print()
-name = input("Your name:" )
-enemy = input("Your worst enemy:" )
-superpower = input("Your super power:" )
-print()
-print("Our story begins as our hero name aproaches aforeboarding castle...")
-print("Suddenly a bolt of lightining striked the ground at the feet of", name)
-print("'Our final battle begins!' Shouts the evil", enemy, "clearly missing the fact that", name, "has the power of", superpower, "which meas they will win quiet easily")
+print("Myra jarenga.")
+print("Today the 9th of March 2023.")
+print("I am signing up for Replit's 100 days of Python challenge!")
+print(
+  "I will make sure to spend some time every day coding along, for a minimum of 10 minutes a day."
+)
+print(
+  "I'll be using Replit, an amazing online IDE so I can do this from my phone wherever I happend to be. No excuses for not coding from the middle of a field!"
+)
+print("I am feeling excited.")
+print("You can follow my progress at replit.com/@MyraJarenga")
